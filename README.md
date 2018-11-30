@@ -1,0 +1,1 @@
+# Ein Dienstprogramm zum Automatisieren der Ressourcenverbrauchsprüfung eingebetteter Linux-Geräte mithilfe des Systemmonitor-Dienstprogramms von Stationery Linux. (An utility to automate embedded Linux device resource consumption check by means of stationery Linux' System Monitor utility.)
